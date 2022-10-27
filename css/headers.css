@@ -1,0 +1,27 @@
+.control-headers{
+    padding-top: 30px;
+}
+.logo img{
+    height: 110px;
+    width: auto;
+}
+.menus ul {
+    list-style-type: none;
+}
+.menus ul li {
+    display: inline-block;
+    padding: 0px 10px;
+    padding-top: 40px;
+    
+}
+.menus ul li a {
+    color: #ffff;
+    text-decoration: none;
+    font-size: 20px;
+    padding: 10px 15px ;
+
+}
+.menus ul li a:hover{
+    border-bottom: solid 5px rgb(255, 196, 0);
+    color:  rgb(255, 196, 0);
+}
