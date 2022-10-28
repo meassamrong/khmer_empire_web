@@ -16,8 +16,6 @@
 <script src="./boostrap/js/bootstrap.min.js"></script>
 <script src="./boostrap/js/bootstrap.bundle.js"></script>
 <script src="./boostrap/js/bootstrap.bundle.min.js"></script>
-<script src="./boostrap/js/bootstrap.esm.js"></script>
-<script src="./boostrap/js/bootstrap.esm.min.js"></script>
 
 <!-- jQuery Plugin -->
 <script src="library/jquery.3.3.js"></script>

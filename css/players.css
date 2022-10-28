@@ -1,0 +1,33 @@
+.background-image {
+    position: absolute;
+    height: 100vh;
+    width: 100%
+}  
+.background-image img {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100vh;
+    object-fit: cover;
+    pointer-events: none;
+    z-index: -1;
+    filter: blur(1px);
+}
+.plsyer-title {
+    padding: 5px 0px ;
+    background-color: rgb(86 5 126 / 42%)
+}
+.players-DataTable {
+    overflow-y: scroll !important;
+    height: 90vh;
+    background-color: rgba(126, 78, 5, 0.42);
+    color: #fff !important;
+    
+}
+#playertable{
+    color: #fff !important;
+    padding: 10px 0px;
+   
+   
+}
