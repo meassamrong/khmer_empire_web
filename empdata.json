@@ -1,0 +1,197 @@
+[
+    {
+        "charinfo": "{\"firstname\":\"Sa\",\"birthdate\":\"1998-02-17\",\"phone\":\"9642097889\",\"lastname\":\"Fi\",\"nationality\":\"Khmer\",\"account\":\"US01QBCore1477121363\",\"gender\":0,\"cid\":1,\"backstory\":\"placeholder backstory\"}"
+    },
+    {
+        "charinfo": "{\"firstname\":\"Ding\",\"account\":\"KHR-982505KHERP1\",\"phone\":\"855876675\",\"lastname\":\"Dong\",\"birthdate\":\"2022-10-28\",\"nationality\":\"Khmer\",\"gender\":0,\"cid\":1,\"backstory\":\"placeholder backstory\"}"
+    },
+    {
+        "charinfo": "{\"firstname\":\"SONG\",\"gender\":0,\"phone\":\"855866198\",\"lastname\":\"THEAN\",\"backstory\":\"placeholder backstory\",\"birthdate\":\"1997-09-02\",\"nationality\":\"KHMER\",\"cid\":1,\"account\":\"KHR-781227KHERP3\"}"
+    },
+    {
+        "charinfo": "{\"firstname\":\"Jen\",\"nationality\":\"Korea\",\"phone\":\"855719239\",\"lastname\":\"sakusak\",\"account\":\"KHR-816959KHERP9\",\"birthdate\":\"2006-08-24\",\"gender\":1,\"cid\":2,\"backstory\":\"placeholder backstory\"}"
+    },
+    {
+        "charinfo": "{\"firstname\":\"Ni\",\"birthdate\":\"2022-10-02\",\"phone\":\"855857825\",\"lastname\":\"Kola\",\"account\":\"KHR-473703KHERP0\",\"nationality\":\"khmer\",\"gender\":0,\"cid\":2,\"backstory\":\"placeholder backstory\"}"
+    },
+    {
+        "charinfo": "{\"firstname\":\"loryn\",\"birthdate\":\"2022-10-28\",\"phone\":\"855207624\",\"lastname\":\"loryn\",\"nationality\":\"hello\",\"account\":\"KHR-652936KHERP0\",\"gender\":0,\"cid\":1,\"backstory\":\"placeholder backstory\"}"
+    },
+    {
+        "charinfo": "{\"firstname\":\"RI\",\"gender\":0,\"phone\":\"855866650\",\"lastname\":\"OT\",\"backstory\":\"placeholder backstory\",\"birthdate\":\"2022-10-28\",\"account\":\"KHR-195306KHERP0\",\"cid\":1,\"nationality\":\"cambodia\"}"
+    },
+    {
+        "charinfo": "{\"firstname\":\"Ma\",\"account\":\"US09QBCore9826309494\",\"phone\":\"4486894747\",\"lastname\":\"Asura\",\"nationality\":\"USA\",\"birthdate\":\"1988-12-31\",\"gender\":0,\"cid\":2,\"backstory\":\"placeholder backstory\"}"
+    },
+    {
+        "charinfo": "{\"birthdate\":\"2022-10-23\",\"phone\":\"855501183\",\"account\":\"KHRP9715KHERP12\",\"firstname\":\"Yu\",\"gender\":0,\"nationality\":\"cambodia\",\"backstory\":\"placeholder backstory\",\"lastname\":\"to\",\"cid\":1}"
+    },
+    {
+        "charinfo": "{\"firstname\":\"Kru\",\"account\":\"KHRP2650KHERP32\",\"phone\":\"85520398\",\"lastname\":\"Pu\",\"nationality\":\"Cambodia\",\"birthdate\":\"1996-09-26\",\"gender\":0,\"cid\":1,\"backstory\":\"placeholder backstory\"}"
+    },
+    {
+        "charinfo": "{\"birthdate\":\"2022-10-26\",\"phone\":\"855843374\",\"account\":\"KHR-850552KHERP1\",\"firstname\":\"Kru\",\"backstory\":\"placeholder backstory\",\"nationality\":\"Cambodia\",\"gender\":0,\"lastname\":\"Ta\",\"cid\":2}"
+    },
+    {
+        "charinfo": "{\"firstname\":\"Yuth\",\"nationality\":\"Khmer\",\"phone\":\"855269660\",\"lastname\":\"Steven\",\"account\":\"KHR-650882KHERP9\",\"birthdate\":\"2022-10-28\",\"gender\":0,\"cid\":2,\"backstory\":\"placeholder backstory\"}"
+    },
+    {
+        "charinfo": "{\"firstname\":\"Jame \",\"nationality\":\"khmer\",\"phone\":\"855839165\",\"lastname\":\"Sbon\",\"account\":\"KHRP5545KHERP61\",\"birthdate\":\"2022-10-23\",\"gender\":0,\"cid\":1,\"backstory\":\"placeholder backstory\"}"
+    },
+    {
+        "charinfo": "{\"firstname\":\"Tich\",\"nationality\":\"Cambodia\",\"phone\":\"855146116\",\"lastname\":\"Chhay\",\"account\":\"KHR-454130KHERP7\",\"birthdate\":\"2022-10-28\",\"gender\":0,\"cid\":1,\"backstory\":\"placeholder backstory\"}"
+    },
+    {
+        "charinfo": "{\"firstname\":\"Kevin \",\"account\":\"KHR-213720KHERP4\",\"phone\":\"855316368\",\"lastname\":\"Boy\",\"birthdate\":\"2001-01-01\",\"nationality\":\"cambodia\",\"gender\":0,\"cid\":1,\"backstory\":\"placeholder backstory\"}"
+    },
+    {
+        "charinfo": "{\"firstname\":\"EK\",\"birthdate\":\"2022-10-22\",\"phone\":\"855188324\",\"lastname\":\"DAI\",\"nationality\":\"Khmer\",\"account\":\"KHR-251909KHERP1\",\"gender\":0,\"cid\":1,\"backstory\":\"placeholder backstory\"}"
+    },
+    {
+        "charinfo": "{\"firstname\":\"bro\",\"gender\":0,\"phone\":\"855596939\",\"lastname\":\"ksc\",\"backstory\":\"placeholder backstory\",\"birthdate\":\"2022-10-16\",\"account\":\"KHR-699750KHERP3\",\"cid\":1,\"nationality\":\"170\"}"
+    },
+    {
+        "charinfo": "{\"firstname\":\"Su\",\"birthdate\":\"2003-02-06\",\"phone\":\"855166859\",\"lastname\":\"Jin\",\"nationality\":\"Cambodia\",\"account\":\"KHR-285412KHERP8\",\"gender\":1,\"cid\":1,\"backstory\":\"placeholder backstory\"}"
+    },
+    {
+        "charinfo": "{\"firstname\":\"ah \",\"account\":\"KHR-967847KHERP8\",\"phone\":\"855886137\",\"lastname\":\"kourch\",\"birthdate\":\"2022-01-02\",\"nationality\":\"khmer\",\"gender\":0,\"cid\":1,\"backstory\":\"placeholder backstory\"}"
+    },
+    {
+        "charinfo": "{\"firstname\":\"Sovan\",\"gender\":0,\"phone\":\"855145449\",\"lastname\":\"naroth\",\"backstory\":\"placeholder backstory\",\"birthdate\":\"2006-08-24\",\"account\":\"KHR-535303KHERP3\",\"cid\":1,\"nationality\":\"khmer\"}"
+    },
+    {
+        "charinfo": "{\"gender\":0,\"backstory\":\"placeholder backstory\",\"cid\":1,\"nationality\":\"qewqw\",\"phone\":\"2844343041\",\"lastname\":\"qweqew\",\"firstname\":\"qwqwe\",\"account\":\"US07QBCore3552267650\",\"birthdate\":\"2022-10-12\"}"
+    },
+    {
+        "charinfo": "{\"firstname\":\"Mony\",\"nationality\":\"Canada\",\"card\":5119117232395818,\"phone\":\"6589377354\",\"lastname\":\"Tommy\",\"birthdate\":\"2000-09-21\",\"account\":\"US09QBCore9758864311\",\"gender\":0,\"cid\":1,\"backstory\":\"placeholder backstory\"}"
+    },
+    {
+        "charinfo": "{\"firstname\":\"Long\",\"birthdate\":\"2000-11-13\",\"phone\":\"9905750982\",\"lastname\":\"Pav\",\"account\":\"US05QBCore6717711580\",\"nationality\":\"Pav\",\"gender\":0,\"cid\":1,\"backstory\":\"placeholder backstory\"}"
+    },
+    {
+        "charinfo": "{\"nationality\":\"Khmer\",\"gender\":0,\"firstname\":\"Mo\",\"backstory\":\"placeholder backstory\",\"account\":\"KHR-631350KHERP2\",\"phone\":\"855801683\",\"lastname\":\"Nha\",\"cid\":2,\"birthdate\":\"2022-10-27\"}"
+    },
+    {
+        "charinfo": "{\"firstname\":\"KiKo\",\"nationality\":\"Cambodia\",\"card\":1481738612480688,\"phone\":\"855897729\",\"lastname\":\"In Da Mud\",\"birthdate\":\"2006-03-29\",\"account\":\"KHR-596376KHERP4\",\"gender\":0,\"cid\":1,\"backstory\":\"placeholder backstory\"}"
+    },
+    {
+        "charinfo": "{\"firstname\":\"Jame\",\"nationality\":\"Cambodia\",\"phone\":\"855476527\",\"lastname\":\"Panha\",\"account\":\"KHR-974865KHERP4\",\"birthdate\":\"2022-10-12\",\"gender\":0,\"cid\":1,\"backstory\":\"placeholder backstory\"}"
+    },
+    {
+        "charinfo": "{\"firstname\":\"Hey\",\"account\":\"KHR-369775KHERP5\",\"phone\":\"855111119\",\"lastname\":\"Steven\",\"birthdate\":\"1999-07-07\",\"nationality\":\"KHMER\",\"gender\":0,\"cid\":1,\"backstory\":\"placeholder backstory\"}"
+    },
+    {
+        "charinfo": "{\"firstname\":\"Zickly\",\"birthdate\":\"2022-10-19\",\"phone\":\"7023489200\",\"lastname\":\"Twenty 2\",\"nationality\":\"cambodia\",\"account\":\"US08QBCore2085194958\",\"gender\":1,\"cid\":1,\"backstory\":\"placeholder backstory\"}"
+    },
+    {
+        "charinfo": "{\"firstname\":\"reak\",\"nationality\":\"cambodia\",\"phone\":\"855870910\",\"lastname\":\"december\",\"account\":\"KHR-214481KHERP3\",\"birthdate\":\"2022-10-28\",\"gender\":0,\"cid\":2,\"backstory\":\"placeholder backstory\"}"
+    },
+    {
+        "charinfo": "{\"firstname\":\"Hul\",\"account\":\"KHR-692760KHERP9\",\"phone\":\"855601388\",\"lastname\":\"PeDe\",\"birthdate\":\"2022-10-29\",\"nationality\":\"khmer\",\"gender\":0,\"cid\":1,\"backstory\":\"placeholder backstory\"}"
+    },
+    {
+        "charinfo": "{\"firstname\":\"Zicka\",\"nationality\":\"Cambodian\",\"phone\":\"855773862\",\"lastname\":\"Fourty5\",\"account\":\"KHR-723399KHERP0\",\"birthdate\":\"2022-10-28\",\"gender\":0,\"cid\":1,\"backstory\":\"placeholder backstory\"}"
+    },
+    {
+        "charinfo": "{\"firstname\":\"KasYa\",\"nationality\":\"Khmer\",\"phone\":\"855306690\",\"lastname\":\"RaJa\",\"birthdate\":\"2022-10-28\",\"account\":\"KHR-994686KHERP7\",\"gender\":0,\"cid\":1,\"backstory\":\"placeholder backstory\"}"
+    },
+    {
+        "charinfo": "{\"firstname\":\"Mann\",\"nationality\":\"Cambodia\",\"phone\":\"855876900\",\"lastname\":\"Rakk\",\"account\":\"KHR-693649KHERP2\",\"birthdate\":\"2022-10-28\",\"gender\":0,\"cid\":2,\"backstory\":\"placeholder backstory\"}"
+    },
+    {
+        "charinfo": "{\"cid\":2,\"gender\":0,\"birthdate\":\"2022-10-27\",\"firstname\":\"JAKE\",\"account\":\"KHR-958349KHERP9\",\"lastname\":\"evil\",\"phone\":\"855926580\",\"backstory\":\"placeholder backstory\",\"nationality\":\"khmer\"}"
+    },
+    {
+        "charinfo": "{\"firstname\":\"Meynx\",\"account\":\"KHR-888532KHERP1\",\"phone\":\"855805689\",\"lastname\":\"l\",\"nationality\":\"cambodia\",\"birthdate\":\"2022-10-28\",\"gender\":1,\"cid\":2,\"backstory\":\"placeholder backstory\"}"
+    },
+    {
+        "charinfo": "{\"firstname\":\" VUTH \",\"gender\":0,\"phone\":\"855854523\",\"lastname\":\"JASMINE\",\"backstory\":\"placeholder backstory\",\"birthdate\":\"2022-10-18\",\"account\":\"KHR-416970KHERP7\",\"cid\":2,\"nationality\":\"KHMER\"}"
+    },
+    {
+        "charinfo": "{\"nationality\":\"khmer\",\"gender\":0,\"firstname\":\"Pao\",\"backstory\":\"placeholder backstory\",\"account\":\"KHR-873728KHERP6\",\"phone\":\"855373994\",\"lastname\":\"Kwann\",\"cid\":1,\"birthdate\":\"2022-10-30\"}"
+    },
+    {
+        "charinfo": "{\"firstname\":\"Johny\",\"birthdate\":\"2022-10-19\",\"phone\":\"5647017087\",\"lastname\":\"Dom\",\"nationality\":\"cambodian\",\"account\":\"US01QBCore9702395011\",\"gender\":0,\"cid\":1,\"backstory\":\"placeholder backstory\"}"
+    },
+    {
+        "charinfo": "{\"firstname\":\"Mercy\",\"birthdate\":\"1998-05-06\",\"phone\":\"7598816059\",\"lastname\":\"Kidney\",\"nationality\":\"Khmer\",\"account\":\"US02QBCore4451764270\",\"gender\":0,\"cid\":1,\"backstory\":\"placeholder backstory\"}"
+    },
+    {
+        "charinfo": "{\"firstname\":\"Bek\",\"gender\":0,\"phone\":\"1296001506\",\"lastname\":\"Kav\",\"backstory\":\"placeholder backstory\",\"birthdate\":\"1998-11-24\",\"account\":\"US04QBCore2227748416\",\"cid\":1,\"nationality\":\"Cambodia\"}"
+    },
+    {
+        "charinfo": "{\"firstname\":\"koy\",\"nationality\":\"khmer\",\"phone\":\"855607631\",\"lastname\":\"jes\",\"account\":\"KHR-921161KHERP2\",\"birthdate\":\"2022-10-02\",\"gender\":0,\"cid\":2,\"backstory\":\"placeholder backstory\"}"
+    },
+    {
+        "charinfo": "{\"nationality\":\"KHMER\",\"gender\":0,\"phone\":\"1416750302\",\"lastname\":\"N\",\"backstory\":\"placeholder backstory\",\"birthdate\":\"2022-10-31\",\"firstname\":\" J\",\"cid\":1,\"account\":\"US09QBCore7974655697\"}"
+    },
+    {
+        "charinfo": "{\"firstname\":\"Chem\",\"account\":\"KHR-781673KHERP8\",\"phone\":\"855986135\",\"lastname\":\"Torny\",\"birthdate\":\"2020-12-31\",\"nationality\":\"russian\",\"gender\":0,\"cid\":1,\"backstory\":\"placeholder backstory\"}"
+    },
+    {
+        "charinfo": "{\"birthdate\":\"2022-10-29\",\"phone\":\"855361445\",\"nationality\":\"bbbbbbbbbbbbbbb\",\"firstname\":\"bbbbbbbbbbbbbbb\",\"account\":\"KHR-290583KHERP9\",\"backstory\":\"placeholder backstory\",\"gender\":0,\"lastname\":\"bbbbbbbbbbbbbbbb\",\"cid\":2}"
+    },
+    {
+        "charinfo": "{\"nationality\":\"Vietnamese\",\"gender\":1,\"firstname\":\"Jen\",\"backstory\":\"placeholder backstory\",\"account\":\"KHR-391276KHERP3\",\"phone\":\"855489263\",\"lastname\":\"Nich\",\"cid\":1,\"birthdate\":\"2005-09-08\"}"
+    },
+    {
+        "charinfo": "{\"firstname\":\"Poy \",\"nationality\":\"Cambodia\",\"phone\":\"855288381\",\"lastname\":\"Noy\",\"account\":\"KHR-940543KHERP9\",\"birthdate\":\"2002-10-03\",\"gender\":0,\"cid\":1,\"backstory\":\"placeholder backstory\"}"
+    },
+    {
+        "charinfo": "{\"firstname\":\"Young\",\"birthdate\":\"1999-03-13\",\"phone\":\"855165542\",\"lastname\":\"ZmokQa\",\"account\":\"KHR-213393KHERP0\",\"nationality\":\"Cambodia\",\"gender\":0,\"cid\":1,\"backstory\":\"placeholder backstory\"}"
+    },
+    {
+        "charinfo": "{\"firstname\":\"Johny\",\"birthdate\":\"2022-10-18\",\"phone\":\"855292915\",\"lastname\":\"Bob\",\"nationality\":\"cambodian\",\"account\":\"KHR-890663KHERP3\",\"gender\":0,\"cid\":2,\"backstory\":\"placeholder backstory\"}"
+    },
+    {
+        "charinfo": "{\"firstname\":\"Boy\",\"birthdate\":\"2002-01-04\",\"phone\":\"8563298989\",\"lastname\":\"Phong\",\"account\":\"US08QBCore4044606284\",\"nationality\":\"Khmer\",\"gender\":0,\"cid\":2,\"backstory\":\"placeholder backstory\"}"
+    },
+    {
+        "charinfo": "{\"firstname\":\"BA \",\"nationality\":\"KHMER\",\"phone\":\"855616568\",\"lastname\":\"BEE\",\"account\":\"KHR-131991KHERP3\",\"birthdate\":\"2022-10-29\",\"gender\":0,\"cid\":2,\"backstory\":\"placeholder backstory\"}"
+    },
+    {
+        "charinfo": "{\"gender\":0,\"backstory\":\"placeholder backstory\",\"cid\":1,\"nationality\":\"123\",\"phone\":\"3123789034\",\"lastname\":\"hak\",\"firstname\":\"hak\",\"account\":\"US08QBCore8980710126\",\"birthdate\":\"2022-10-25\"}"
+    },
+    {
+        "charinfo": "{\"lastname\":\"Corp\",\"gender\":0,\"account\":\"KHRP6251KHERP28\",\"nationality\":\"khmer\",\"firstname\":\"J\",\"birthdate\":\"2022-10-23\",\"cid\":1,\"backstory\":\"placeholder backstory\",\"phone\":\"855859321\"}"
+    },
+    {
+        "charinfo": "{\"birthdate\":\"2022-10-10\",\"phone\":\"855902336\",\"nationality\":\"Cambodia\",\"firstname\":\"John\",\"account\":\"KHR-182354KHERP5\",\"gender\":0,\"backstory\":\"placeholder backstory\",\"lastname\":\"Pazer\",\"cid\":1}"
+    },
+    {
+        "charinfo": "{\"firstname\":\"Ti\",\"nationality\":\"Chinnese\",\"phone\":\"855874855\",\"lastname\":\"Porchen\",\"account\":\"KHR-196957KHERP8\",\"birthdate\":\"2002-01-02\",\"gender\":0,\"cid\":1,\"backstory\":\"placeholder backstory\"}"
+    },
+    {
+        "charinfo": "{\"firstname\":\"Sovan\",\"birthdate\":\"2022-10-28\",\"phone\":\"855150597\",\"lastname\":\"LyToy\",\"nationality\":\"Cambodia\",\"account\":\"KHR-361488KHERP9\",\"gender\":0,\"cid\":1,\"backstory\":\"placeholder backstory\"}"
+    },
+    {
+        "charinfo": "{\"cid\":1,\"phone\":\"9317166220\",\"birthdate\":\"2022-10-04\",\"account\":\"US08QBCore3999487128\",\"backstory\":\"placeholder backstory\",\"lastname\":\"Zzzz\",\"nationality\":\"Khmer\",\"gender\":0,\"firstname\":\"Phong\"}"
+    },
+    {
+        "charinfo": "{\"firstname\":\"Ra\",\"birthdate\":\"2022-10-19\",\"phone\":\"855998328\",\"lastname\":\"Gan\",\"nationality\":\"khmer\",\"account\":\"KHR-572824KHERP9\",\"gender\":0,\"cid\":1,\"backstory\":\"placeholder backstory\"}"
+    },
+    {
+        "charinfo": "{\"firstname\":\"Derk\",\"nationality\":\"Cambodia\",\"phone\":\"855884452\",\"lastname\":\"Savern\",\"account\":\"KHR-694557KHERP9\",\"birthdate\":\"2022-10-28\",\"gender\":0,\"cid\":1,\"backstory\":\"placeholder backstory\"}"
+    },
+    {
+        "charinfo": "{\"firstname\":\"ah\",\"birthdate\":\"2022-10-24\",\"phone\":\"855598161\",\"lastname\":\"klo\",\"nationality\":\"dubai\",\"account\":\"KHR-921478KHERP4\",\"gender\":0,\"cid\":1,\"backstory\":\"placeholder backstory\"}"
+    },
+    {
+        "charinfo": "{\"firstname\":\"Pu\",\"gender\":0,\"phone\":\"855767229\",\"lastname\":\"Jruy\",\"backstory\":\"placeholder backstory\",\"birthdate\":\"1998-02-17\",\"nationality\":\"Khmer\",\"cid\":2,\"account\":\"KHR-656186KHERP6\"}"
+    },
+    {
+        "charinfo": "{\"birthdate\":\"2022-10-25\",\"gender\":0,\"nationality\":\"cambodian\",\"firstname\":\"Evil\",\"backstory\":\"placeholder backstory\",\"account\":\"US06QBCore1213853115\",\"phone\":\"5715458104\",\"lastname\":\"Marc smos\",\"cid\":1}"
+    },
+    {
+        "charinfo": "{\"firstname\":\"Ly\",\"gender\":0,\"phone\":\"855591769\",\"lastname\":\"Neng\",\"backstory\":\"placeholder backstory\",\"birthdate\":\"2000-09-10\",\"nationality\":\"Khmer\",\"cid\":1,\"account\":\"KHR-757508KHERP6\"}"
+    },
+    {
+        "charinfo": "{\"firstname\":\"FANG\",\"birthdate\":\"2022-10-24\",\"phone\":\"855441713\",\"lastname\":\"JI\",\"nationality\":\"khmer\",\"account\":\"KHR-760522KHERP4\",\"gender\":0,\"cid\":1,\"backstory\":\"placeholder backstory\"}"
+    },
+    {
+        "charinfo": "{\"firstname\":\"HI\",\"nationality\":\"KHMER\",\"phone\":\"8294746215\",\"lastname\":\"LOVE\",\"birthdate\":\"2022-10-25\",\"account\":\"US07QBCore7359599948\",\"gender\":1,\"cid\":1,\"backstory\":\"placeholder backstory\"}"
+    },
+    {
+        "charinfo": "{\"cid\":1,\"firstname\":\"Than\",\"birthdate\":\"2001-03-05\",\"lastname\":\"nun\",\"nationality\":\"Khmer\",\"account\":\"KHR-591387KHERP8\",\"gender\":0,\"backstory\":\"placeholder backstory\",\"phone\":\"855997212\"}"
+    }
+]

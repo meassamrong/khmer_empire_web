@@ -1,5 +1,5 @@
 $(document).ready(function () {
     $('#playertable').DataTable({
-        ajax: 'tempoArray.json',
+        ajax: 'empdata.json',
     });
 });

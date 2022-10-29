@@ -1,18 +1,27 @@
 .control-headers{
     padding-top: 30px;
+    z-index: 99;
 }
 .logo img{
     height: 110px;
     width: auto;
 }
+.menus {
+    padding: 0px !important;
+}
 .menus ul {
     list-style-type: none;
+    text-align: right;
+    padding-right: 0%;
 }
 .menus ul li {
     display: inline-block;
     padding: 0px 10px;
     padding-top: 40px;
     
+}
+.menus ul li:nth-child(5){
+    padding: 0px;
 }
 .menus ul li a {
     color: #ffff;

@@ -1,7 +1,8 @@
 .background-image {
     position: absolute;
     height: 100vh;
-    width: 100%
+    width: 100%;
+    z-index: -1 ;
 }  
 .background-image img {
     position: absolute;
@@ -21,7 +22,7 @@
 .players-DataTable {
     overflow-y: scroll !important;
     height: 90vh;
-    background-color: rgba(126, 78, 5, 0.42);
+    background-color: rgba(3, 57, 119, 0.42);
     color: #fff !important;
     
 }
@@ -30,4 +31,8 @@
     padding: 10px 0px;
    
    
+}
+#playertable_wrapper {
+    color: #fff !important;
+    padding-top: 20px;
 }

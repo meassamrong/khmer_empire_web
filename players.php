@@ -18,17 +18,17 @@
     <div id="loading"><img src="img/loading-scene1.gif" alt=""></div>
     <div class="background-image"><img src="img/player-background.jpg" alt=""></div>
     <div class="page">
+    <?php require'components/headers.php';?>
+        <div class="container">
         <div class="plsyer-title">
            <div class="container">
            <h1 class="text-white"><i class="bi bi-graph-down"></i> Player Leaderboard</h1>
            </div>
         </div>
-        <div class="container">
         <div class="players-DataTable">
             <table id="playertable" class="display playertable" style="width:100%">
                 <thead>
                     <tr>
-                        <th>ID</th>
                         <th>Name</th>
                         <th>Position</th>
                         <th>Office</th>
@@ -39,7 +39,6 @@
                 </thead>
                 <tfoot>
                     <tr>
-                        <th>ID</th>
                         <th>Name</th>
                         <th>Position</th>
                         <th>Office</th>
