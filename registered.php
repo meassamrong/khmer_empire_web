@@ -13,7 +13,7 @@ if(isset($_POST['btnsubmit'])){
     $clientip           = $_POST["clientip"];
     
     $uploadderect = '/members';
-    $filename   = uniqid() . "-" . time(); // 5dab1961e93a7-1571494241
+    $filename   = uniqid() . "-" . time();
     $extension  = pathinfo($uploadderect . $_FILES["playerprofileimage"]["name"], PATHINFO_EXTENSION );
     $basename   = $filename . "." . $extension;
     $source       = $_FILES["playerprofileimage"]["tmp_name"];

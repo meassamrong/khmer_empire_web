@@ -1,7 +1,7 @@
 <?php
     $servername = "localhost";
-    $username = "rong1";
-    $password = "rong1011";
+    $username = "root";
+    $password = "";
     $dbname = "fivem_db";
     // Create connection
     $conn = new mysqli($servername, $username, $password, $dbname);
