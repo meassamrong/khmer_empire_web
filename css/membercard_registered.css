@@ -1,0 +1,25 @@
+*{
+    cursor: initial !important;
+}
+.backgroun-image {
+    height: 100vh;
+    width: 100%;
+    position: absolute;
+    z-index: -999;
+
+}
+.backgroun-image img{
+    height: 100vh;
+    width: 100%;
+    filter: blur(1px); 
+    z-index: -999;
+
+
+}
+.btnBack {
+    text-align: right;
+    cursor: pointer;
+}
+.btnBack a {
+    cursor: pointer;
+}

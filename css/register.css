@@ -1,9 +1,7 @@
 .register {
     background: -webkit-linear-gradient(left, #3931af, #00c6ff);
-    margin-top: 3%;
     padding: 3%;
 }
-
 .register-left {
     text-align: center;
     color: #fff;
@@ -116,4 +114,18 @@
     margin-top: 8%;
     margin-bottom: -15%;
     color: #495057;
+}
+#discordbtn {
+    background-color: #5865f2;
+    border: solid 3px #fff;
+    color: #fff;
+}
+#discordbtn:hover{
+    background-color: #7580fa;
+}
+#discord_weget {
+    position: absolute;
+    bottom: 5%;
+    left: 2%;
+    visibility: hidden;
 }
