@@ -1,0 +1,14 @@
+.player-avatar {
+    height: 50px;
+    width: 50px;
+    border-radius: 50%;
+    overflow: hidden;
+    position: relative;
+    border: solid 3px rgba(63, 255, 4, 0.589);
+    background-color: rgba(240, 255, 255, 0.562);
+    transition: all 0.2s ease-in-out;
+    padding: 5px;
+}
+.view-avatar :hover.player-avatar{
+    border: solid 3px rgba(102, 96, 10, 0.589);
+}

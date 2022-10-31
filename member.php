@@ -39,7 +39,7 @@
                 <div class="tab-content" id="myTabContent">
                     <div class="tab-pane fade show active" id="home" role="tabpanel" aria-labelledby="home-tab">
                         <h3 class="register-heading">Apply as a Member</h3>
-                            <form action="registered.php" method="POST" novalidate class="needs-validation" enctype="multipart/form-data">
+                            <form id="registeredForm" action="registered.php" method="POST" novalidate class="needs-validation" enctype="multipart/form-data">
                                 <div class="row register-form">
                                     <div class="col-md-6">
                                         <div class="form-group">
@@ -75,7 +75,7 @@
                                             <select name="cityjob" id="cityjobs" required class="form-control required" >
                                                 <option class="hidden" selected disabled>Your current city job or job you want to apply </option>
                                                 <option value="UnEmployed">unEmployed</option>
-                                                <option value=Police">Police</option>
+                                                <option value="Police">Police</option>
                                                 <option value="Ambulance">Ambulance</option>
                                                 <option value="Mechanic">Mechanic</option>
                                                 <option value="Car Dealer">Car Dealer</option>
@@ -337,10 +337,10 @@
                                         </div>
                                         <div class="row">
                                             <div class="form-group col-8">
-                                                <label for="playerprofileimage" class="form-control">Profile Image</label>
+                                                <label for="playerprofileimage" id="upload_error"class="form-control">Profile Image</label>
                                             </div>
                                             <div class="form-group col-4">
-                                                <input type="file" name="playerprofileimage" id="playerprofileimages" required accept="image/png, image/gif, image/jpeg" class="form-control bg bg-primary" placeholder="your images" value="" />
+                                                <input type="file" onchange="SizeCheck();" name="playerprofileimage" id="playerprofileimages" required accept="image/png, image/gif, image/jpeg" class="form-control bg bg-primary" placeholder="your images" value="" />
                                             </div>
                                         </div>
                                         <div class="row">
@@ -359,18 +359,20 @@
                     </div>
                     <div class="tab-pane fade show" id="profile" role="tabpanel" aria-labelledby="profile-tab">
                         <h3 class="register-heading">MEMBER LOG-IN</h3>
+                        <form action="admin/login.php" method="POST" novalidate class="needs-validation" enctype="multipart/form-data">
                         <div class="row register-form">
-                            <div class="col-md-6">
-                                <div class="form-group">
-                                    <input type="email" class="form-control" placeholder="Email *" value="" />
+                                <div class="col-md-6">
+                                    <div class="form-group">
+                                        <input type="email" name="adminEmial" required class="form-control" placeholder="Email *" value="" />
+                                    </div>
                                 </div>
-                            </div>
-                            <div class="col-md-6">
-                                <div class="form-group">
-                                    <input type="password" class="form-control" placeholder="Password *" value="" />
+                                <div class="col-md-6">
+                                    <div class="form-group">
+                                        <input type="password" name="adminPass" required class="form-control" placeholder="Password *" value="" />
+                                    </div>
+                                    <input type="submit" name="logins" class="btnRegister" value="LOGIN"/>
                                 </div>
-                                <input type="submit" class="btnRegister" value="LOGIN" />
-                            </div>
+                            </form>
                         </div>
                     </div>
                 </div>

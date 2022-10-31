@@ -12,11 +12,11 @@ const setVisible = (elementOrSelector, visible) =>
 setVisible('.page', false);
 setVisible('#loading', true);
 document.addEventListener('DOMContentLoaded', () =>
-  wait(100).then(() => {
+  wait(1800).then(() => {
     setVisible('.page', true);
     $("#loading").addClass('loadingEnd');
   },
-  wait(100).then(() => {  
+  wait(1900).then(() => {  
     setVisible('#loading', false);
   })
   ));

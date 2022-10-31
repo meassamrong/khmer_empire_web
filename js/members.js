@@ -10,18 +10,7 @@ $.get('https://www.cloudflare.com/cdn-cgi/trace', function(data) {
 });
 $("#clientIP").on('input', function(){
   $("#useClientIP").val($("#clientIP").val())
-})
-
-var currentDiscord = 0;
-$("#discordbtn").on('click', function(){
-   if(currentDiscord == 0){
-    $("#discord_weget").css('visibility', 'visible')
-    currentDiscord ++;
-   }else {
-    $("#discord_weget").css('visibility', 'hidden')
-    currentDiscord = 0;
-   }
-})
+});
 var currentValueEditIP = 0;
 $("#editeIP").css('background-color', '#5865f2')
 $("#editeIP").on('click', function(){
@@ -35,9 +24,6 @@ $("#editeIP").on('click', function(){
     currentValueEditIP = 0;
   }
 });
-
-$("#btnsubmits").css('background-color', '#fd2828ed');
-
 // Example starter JavaScript for disabling form submissions if there are invalid fields
 (function () {
   'use strict'
@@ -58,3 +44,25 @@ $("#btnsubmits").css('background-color', '#fd2828ed');
       }, false)
     })
 })()
+
+// check file size
+function SizeCheck() {
+  var fileInput = document.getElementById('playerprofileimages').files;
+  var fsize = fileInput[0].size;
+  var file = Math.round((fsize / 1024));
+  if (file >= 10240) {     //10MB
+     //Add Alert Here If 
+      $('#upload_error').html("Image size not allowed <i class='bi bi-exclamation'></i>");
+      $("#btnsubmits").attr('disabled', true)
+      $("#btnsubmits").css('background-color', '#fd2828ed');
+      $("#upload_error").css('color', 'red')
+  }
+  else {
+      $('#invoice_error').html("");
+      $("#btnsubmits").attr('disabled', false)
+      $("#btnsubmits").css('background-color', '#0062cc');
+      $("#upload_error").css('color', '#0062cc')
+      $('#upload_error').html("Image size supported <i class='bi bi-check-all'></i>");
+      
+  }
+}
